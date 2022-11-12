@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-serhii-bikon/serhii-bikon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+serhii-bykon/serhii-bykon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
