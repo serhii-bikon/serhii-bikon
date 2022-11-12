@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @serhii-bikon
+- 👋 Hi, I’m @serhii-bykon
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
